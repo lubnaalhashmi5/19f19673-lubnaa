@@ -1,0 +1,10 @@
+declarations disease as char 
+read disease (y/n)
+switch (disease)
+case 'n': or  case 'N':
+print("You are able to receive a vaccination. ")
+case 'y': or case 'Y':
+print("You are unable to receive a vaccination. ");
+default case
+print("error you should choose y or n")
+end switch
