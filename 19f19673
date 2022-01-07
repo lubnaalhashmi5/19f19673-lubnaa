@@ -9,14 +9,18 @@ default case
 print("error you should choose y or n")
 end switch
 
-int i
-integer age 
-read age
+int age,job
+integer age
+Char job
+read age،job
 if (age < 10) 
-print("the vaccine is mandatory")
+print("the vaccine is mandatory")then
 else if (age between 10 to 50) 
-print("The vaccine is optional");
+print("The vaccine is optional")then
 else if (age > 50)
 print("the vaccine is mandatory")
+if ("the  job is M or H")then
+print (" the vaccine is mandatory")
 end if
 end if
+end if 
