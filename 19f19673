@@ -8,3 +8,15 @@ print("You are unable to receive a vaccination. ");
 default case
 print("error you should choose y or n")
 end switch
+
+int i
+integer age 
+read age
+if (age < 10) 
+print("the vaccine is mandatory")
+else if (age between 10 to 50) 
+print("The vaccine is optional");
+else if (age > 50)
+print("the vaccine is mandatory")
+end if
+end if
